@@ -3,7 +3,7 @@
 ## Software 2 programming assignments
 
 
-**[JS modules 1 and 2:](js/module-1-2)**
+**[JS modules 1 and 2:](https://sainthelios.github.io/OHJ-2-JS/module-1-2/)**
 
 - Task 1: 1p 
 - Task 2: 2p 
@@ -17,7 +17,7 @@
 
 **Total 23p**
 
-**[JS module 3:](js/module-3/)**
+**[JS module 3:](https://sainthelios.github.io/OHJ-2-JS/module-3)**
 
 - Task 1: 2p
 - Task 2: 2p 
@@ -32,7 +32,7 @@
 
 **Total 27p**
 
-**[JS module 4:](js/module-4/)**
+**[JS module 4:](https://sainthelios.github.io/OHJ-2-JS/module-4/)**
 
 - Task 1: 2p
 - Task 2: 2p
