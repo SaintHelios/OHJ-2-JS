@@ -1,0 +1,45 @@
+body {
+    background: black;
+}
+
+.dir {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-decoration: none;
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: white;
+    height: 100%;
+    text-shadow: 
+  0 0 5px rgba(255, 255, 255, 0.9),
+  0 0 15px rgba(230, 0, 115, 0.7),
+  0 0 30px rgba(230, 0, 115, 0.4);
+}
+
+.dir h1 {
+    font-size: 40px;
+}
+
+.dir a {
+    color: white;;
+    text-decoration: none;
+    font-size: 30px;
+    padding: 10px;
+    transition: transform 0.1s ease;
+}
+
+.dir a:hover {
+    color:cornsilk;
+    transform: scale(1.15);
+    transition: transform 0.2s ease;
+}
+
+.dir img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    height: 40%;
+    
+}
