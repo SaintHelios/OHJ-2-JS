@@ -44,7 +44,7 @@
 
 **Total 19p**
 
-**[Flask]**
+**[Flask](/flask/)**
 
 - Task 1: 4p
 - Task 2: 10p
