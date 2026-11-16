@@ -1,6 +1,11 @@
-from flask import Flask, request
+from flask import Flask, request, render_template
 
 app = Flask(__name__)
+
+@app.route('/')
+def page():
+    return render_template('index.html')
+
 @app.route('/prime_number/<number>')
 def prime(number):
     isprime = True
