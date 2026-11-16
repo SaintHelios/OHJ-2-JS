@@ -44,3 +44,10 @@
 
 **Total 19p**
 
+**[Flask]**
+
+- Task 1: 4p
+- Task 2: 10p
+- Task 3: 6p
+
+**Total 20p**
