@@ -41,8 +41,11 @@
 - Task 5: 8p
 - Task 6: 1p
 - Task 7: 2p
+- Task 8: 4p
+- Task 9: 4p
+- Task 10: 2p
 
-**Total 19p**
+**Total 29p**
 
 **[Flask](/flask/)**
 
