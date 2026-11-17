@@ -54,3 +54,9 @@
 - Task 3: 6p
 
 **Total 20p**
+
+**[Module 5:](https://sainthelios.github.io/OHJ-2-JS/module-5/)**
+
+- Task 1: 2p
+
+**Total 2p**
